@@ -1,0 +1,10 @@
+{
+    "name": "ServiceNowAPI",
+    "index":"index.html",
+    "icon64x64": "image.png",
+    "externalURL": "",
+    "selectors": {
+        "h2.api-class-name": "Package",
+        "h4.method_anchor.func-name": "Class"
+    }
+}
